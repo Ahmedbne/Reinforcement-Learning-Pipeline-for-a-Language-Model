@@ -1,2 +1,2 @@
-# Reinforcement-Learning-Pipeline-for-a-Language-Model
+# Reinforcement Learning Pipeline for a Language Model
 In this tutorial, we demonstrate how to build a reinforcement learning (RL) pipeline using the GRPO (Group Relative Policy Optimization) method to finetune a language model for math, logic, and coding tasks. These are tasks for which there exist a unique correct answer that can be easily verified with the ground truth answer using a simple string comparison.
